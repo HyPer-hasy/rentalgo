@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'rentalgo'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1244CC9B81B446E8BECB820EA088AD2B }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BEA224B6E25A43CAB839F474F40F3723 }}
           package: '*.war'
