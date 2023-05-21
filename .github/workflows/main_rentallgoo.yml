@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'rentallgoo'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F3717599B97146EEBCC63901FE933402 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5CA06B9EF4AA48D7B5D430741FBE69A1 }}
           package: '*.war'
